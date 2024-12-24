@@ -16,9 +16,9 @@ The primary objective of the To-Do Application is to provide users with a simple
 
 ### Features
 - **Add, Edit, and Delete Tasks**: Users can seamlessly create new tasks, update existing ones, or delete tasks when completed.
--**Task Categorization**: Tasks can be grouped into categories (e.g., Work, Personal, Shopping), helping users stay organized.
--**Mark Tasks as Complete**: Users can mark tasks as completed, visually distinguishing finished items from pending ones.
--**Local Storage Integration**: The app uses local storage to save tasks so that data persists even after the browser is refreshed.
+- **Task Categorization**: Tasks can be grouped into categories (e.g., Work, Personal, Shopping), helping users stay organized.
+- **Mark Tasks as Complete**: Users can mark tasks as completed, visually distinguishing finished items from pending ones.
+- **Local Storage Integration**: The app uses local storage to save tasks so that data persists even after the browser is refreshed.
 
 ### Technology Stack
 -Frontend: React.js
