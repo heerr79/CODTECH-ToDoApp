@@ -1,5 +1,6 @@
 # CODTECH-Task1
 **Name:** HEER RAJESH PANCHAL
+
 **Intern ID:** CT08ENV
 **Domain:** React.js Web Development
 **Duration:** 17th December 2024 to 17th January 2025
@@ -20,7 +21,6 @@ The primary objective of the To-Do Application is to provide users with a simple
 ### Technology Stack
 -Frontend: React.js
 -CSS Frameworks: Custom CSS
-
 
 ### Project Implementation Steps
 -Planning & Setup: Define the project structure and break it into components like Task List, Task Input, Task Filters, etc.
