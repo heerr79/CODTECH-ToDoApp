@@ -5,7 +5,7 @@
 
 **Domain:** React.js Web Development
 
-**Duration:** 17th December 2024 to 17th January 2025
+**Duration:** December 17th,2024 to January 17th,2025
 
 ## Overview of the Project
 
