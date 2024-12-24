@@ -21,13 +21,13 @@ The primary objective of the To-Do Application is to provide users with a simple
 - **Local Storage Integration**: The app uses local storage to save tasks so that data persists even after the browser is refreshed.
 
 ### Technology Stack
--Frontend: React.js
--CSS Frameworks: Custom CSS
+- Frontend: React.js
+- CSS Frameworks: Custom CSS
 
 ### Project Implementation Steps
--Planning & Setup: Define the project structure and break it into components like Task List, Task Input, Task Filters, etc.
--Developing Core Features: Implement task addition, editing, deletion, and marking as completed using React hooks (e.g., useState, useEffect).
--Styling the Application: Design an intuitive and responsive user interface with a clean layout.
--Testing & Deployment: Test the app thoroughly for edge cases, then deploy it on platforms like Vercel or Netlify.
+- Planning & Setup: Define the project structure and break it into components like Task List, Task Input, Task Filters, etc.
+- Developing Core Features: Implement task addition, editing, deletion, and marking as completed using React hooks (e.g., useState, useEffect).
+- Styling the Application: Design an intuitive and responsive user interface with a clean layout.
+- Testing & Deployment: Test the app thoroughly for edge cases, then deploy it on platforms like Vercel or Netlify.
 
 
